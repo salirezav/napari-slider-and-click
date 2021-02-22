@@ -1,0 +1,1 @@
+# napari-slider-and-click
